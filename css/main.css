@@ -1,0 +1,135 @@
+html {
+  margin-top: 100px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+}
+
+.border {
+  color: #B4BDC8;
+}
+body {
+  background-color: white;
+  margin: 0;
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+.boxed {
+  border:1px #B4BDC8;
+  background-color:#B4BDC8;
+  width: 1240px;
+  height: 750px;
+  padding: 50px;
+}
+.navbar {
+  background:#B4BDC8;
+  padding: 20px;
+}
+.logo {
+  text-decoration: none;
+  font-weight: bold;
+  color: #37424F;
+  font-size: 25px;
+  display: block;
+  margin-right: auto;
+}
+span {
+  color: white;
+}
+.primary-nav {
+  display:inline;
+}
+ul {
+  list-style-type: none;
+}
+ul#horizontal-list li{
+  display:inline;
+  padding: 10px;
+}
+li a {
+  color:#37424F;
+  text-decoration: none;
+}
+li a:hover {
+  color:white;
+}
+
+nav {
+  display: none;
+}
+
+.container {
+  display: flex;
+  place-content: space-between;
+}
+
+p {
+  padding-top: 60px;
+  font-family: Inria Sans;
+  font-size: 35px;
+  color: #37424F;
+  text-align: center;
+}
+.hero-image1 {
+  text-align: center;
+  position: center;
+}
+
+.hero-text {
+  text-align: left;
+  position: left;
+  top: 50%;
+  left: 50%;
+  color: white;
+  
+}
+hr {
+  position: relative;
+  border: none;
+  height: 2px;
+  background: white;
+}
+h1 {
+  font-family: 'Inria Sans', sans-serif;
+  text-align: left;
+}
+p {
+  font-family: 'Inria Sans', sans-serif;
+  text-align: left;
+  font-size: 20px;
+  margin-right: 800px;
+  margin-top: 2px;
+}
+p2 {
+  font-family: 'Inria Sans', sans-serif;
+  text-align: left;
+  position: left;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 800px;
+  color:#37424F;
+  display: block;
+}
+.meimage {
+  margin-top: -150px;
+  float: right;
+  display: inline;
+}
+h2 {
+  text-align: center;
+  position: center;
+  color: white;
+  margin-top: 15px;
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.social-media-icons {
+  padding-top: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+span2 {
+  color:#4F5265;
+}
+/*# sourceMappingURL=main.css.map */
